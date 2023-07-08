@@ -204,5 +204,9 @@ input[type="text"] {
   top: 15px;
   transform: rotate(180deg);
 }
-
+.el-scrollbar__view.el-select-dropdown__list{
+  background-color: #fff;
+  cursor: pointer;
+  list-style: none;
+}
 
